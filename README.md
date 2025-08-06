@@ -1,2 +1,3 @@
 # MVR-Stash
-A few of my MVR and GrandMA3 show files
+Here are a few of my MVR and MA3 files for everyone who wants to play around with some premade stages <br>
+Happy Programming!
